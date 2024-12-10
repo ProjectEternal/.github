@@ -12,7 +12,7 @@ If you're looking for a more playable experience I suggest using [Mercury](https
 # How To
 Backend can be found [Here](https://github.com/ProjectEternal/LegacyBackend) (Barebones)
 <br>
-Dll can be downloaded [Here](https://github.com/ProjectEternal/.github/blob/main/Alpharium.dll)
+Dll can be downloaded [Here](https://github.com/ProjectEternal/.github/blob/main/Alpharium.dll) Source can be found [Here](https://github.com/ProjectEternal/Alpharium)
 <br>
 Setup Backend
 <br>
